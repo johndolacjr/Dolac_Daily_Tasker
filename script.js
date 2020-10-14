@@ -13,10 +13,19 @@ for (var i=0; i < hour.length; i++) {
         `
     )
     
-    if (moment().format("H") == hour[i]){
-        $(`#hour-${hour[i]}`).addClass("present")
-    }
-// add else if's for past and future (same as above)
+    if (moment().format("H") > hour[i]) {
+        $(`#hour-${hour[i]}`).addClass("past")
+    } 
+    
+    else if (moment().format("H") == hour[i]) {
+        $(`#hour-${hour[i]}`).removeClass("past"); 
+        $(`#hour-${hour[i]}`).addClass("present"); 
+    } 
+    else {
+        $(this).removeClass("past"); 
+        $(this).removeClass("present"); 
+        $(this).addClass("future");
+    }    
 }; 
 
 $(".saveBtn").on("click", function(){
@@ -80,7 +89,3 @@ for (var i=9; i <= 17; i++){
 // // //Append to list
 // // todoList.appendChild(todoDiv);
 // }
-
-
-
-
