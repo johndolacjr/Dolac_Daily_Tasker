@@ -8,6 +8,8 @@ Gray means your tasks are past due
 Red means yoru tasks are due
 Green means you still have time to complete you tasks. 
 
+See how to use this by following the link: https://raw.githubusercontent.com/johndolacjr/Dolac_Daily_Tasker/main/Images/Daily%20Tasker%20How%20To.png
+
 ## Link to Daily Tasker
 https://johndolacjr.github.io/Dolac_Daily_Tasker/ 
 
