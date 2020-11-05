@@ -1,6 +1,9 @@
 ## Title of app
      Dolac_Daily_Tasker
 
+## GitHub Repository
+    See GitHub Repo Link: https://github.com/johndolacjr/Dolac_Daily_Tasker
+
 ## Live link to deployed app
     https://johndolacjr.github.io/Dolac_Daily_Tasker/
 
@@ -17,17 +20,12 @@
         Green means you still have time to complete you tasks. 
         
 ## 2-3 Screenshots
-    See GitHub Repo Link: https://github.com/johndolacjr/Dolac_Daily_Tasker
      https://raw.githubusercontent.com/johndolacjr/Dolac_Daily_Tasker/main/Daily_Tasker_Img.png
+     https://raw.githubusercontent.com/johndolacjr/Dolac_Daily_Tasker/main/Mid-Day_IMG.png 
      https://raw.githubusercontent.com/johndolacjr/Dolac_Daily_Tasker/main/Future_Daily_Tasker_Img.png
 
-<<<<<<< HEAD
-## License (usually MIT)
-    NA
-=======
 ## License
      N/A
->>>>>>> fb9cd4ba99ac92f18c62e28649d4572e49fe14e1
 
 ## Contact information for you and any collaborators
     Name: John Dolac
