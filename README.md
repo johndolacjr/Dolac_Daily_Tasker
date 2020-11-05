@@ -16,6 +16,8 @@
         Red means yoru tasks are due
         Green means you still have time to complete you tasks. 
 
+## Image Link: 
+     
 
 ## 2-3 Screenshots / gifs of the app
     See GitHub Repo Link: https://github.com/johndolacjr/Dolac_Daily_Tasker
