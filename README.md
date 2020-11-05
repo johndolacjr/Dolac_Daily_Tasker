@@ -21,6 +21,7 @@
     See GitHub Repo Link: https://github.com/johndolacjr/Dolac_Daily_Tasker
 
 ## License (usually MIT)
+    NA
 
 ## Contact information for you and any collaborators
     Name: John Dolac
