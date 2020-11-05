@@ -17,12 +17,12 @@
         Green means you still have time to complete you tasks. 
 
 ## Image Link: 
-     
+     https://raw.githubusercontent.com/johndolacjr/Dolac_Daily_Tasker/main/Daily_Tasker_Img.png
 
 ## 2-3 Screenshots / gifs of the app
     See GitHub Repo Link: https://github.com/johndolacjr/Dolac_Daily_Tasker
 
-## License (usually MIT)
+## License
 
 ## Contact information for you and any collaborators
     Name: John Dolac
